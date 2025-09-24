@@ -1,0 +1,29 @@
+Country Name,Country ISO3,Year,Indicator Name,Indicator Code,Value
+#country+name,#country+code,#date+year,#indicator+name,#indicator+code,#indicator+value+num
+Barbados,BRB,2020,Individuals using the Internet (% of population),IT.NET.USER.ZS,76
+Barbados,BRB,2019,Individuals using the Internet (% of population),IT.NET.USER.ZS,74.2
+Barbados,BRB,2018,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.4
+Barbados,BRB,2017,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.3
+Barbados,BRB,2016,Individuals using the Internet (% of population),IT.NET.USER.ZS,72.2
+Barbados,BRB,2015,Individuals using the Internet (% of population),IT.NET.USER.ZS,72
+Barbados,BRB,2014,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.9
+Barbados,BRB,2013,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.8
+Barbados,BRB,2012,Individuals using the Internet (% of population),IT.NET.USER.ZS,71.2
+Barbados,BRB,2011,Individuals using the Internet (% of population),IT.NET.USER.ZS,66.5
+Barbados,BRB,2010,Individuals using the Internet (% of population),IT.NET.USER.ZS,65.1
+Barbados,BRB,2009,Individuals using the Internet (% of population),IT.NET.USER.ZS,64.7
+Barbados,BRB,2008,Individuals using the Internet (% of population),IT.NET.USER.ZS,61.4
+Barbados,BRB,2007,Individuals using the Internet (% of population),IT.NET.USER.ZS,58.2
+Barbados,BRB,2006,Individuals using the Internet (% of population),IT.NET.USER.ZS,55.3
+Barbados,BRB,2005,Individuals using the Internet (% of population),IT.NET.USER.ZS,52.5
+Barbados,BRB,2004,Individuals using the Internet (% of population),IT.NET.USER.ZS,49.8
+Barbados,BRB,2003,Individuals using the Internet (% of population),IT.NET.USER.ZS,39.7
+Barbados,BRB,2002,Individuals using the Internet (% of population),IT.NET.USER.ZS,27.8
+Barbados,BRB,2001,Individuals using the Internet (% of population),IT.NET.USER.ZS,11.9
+Barbados,BRB,2000,Individuals using the Internet (% of population),IT.NET.USER.ZS,3.97
+Barbados,BRB,1999,Individuals using the Internet (% of population),IT.NET.USER.ZS,2.38
+Barbados,BRB,1998,Individuals using the Internet (% of population),IT.NET.USER.ZS,1.97
+Barbados,BRB,1997,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.783
+Barbados,BRB,1996,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.389
+Barbados,BRB,1995,Individuals using the Internet (% of population),IT.NET.USER.ZS,0.00775
+Barbados,BRB,1990,Individuals using the Internet (% of population),IT.NET.USER.ZS,0
